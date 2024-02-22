@@ -1,7 +1,7 @@
 # Machine Learning Report: Feedback Data Analysis
 
 Based on the analysis of the feedback data, the following detailed report is prepared:
-
+![Faculty-Wise Distribution of Feedback](Images/1.png)  
 ## Faculty-Wise Distribution of Data
 
 - The dataset consists of feedback from students across different branches and for different resource persons.
