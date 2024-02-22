@@ -1,23 +1,35 @@
 # Machine Learning Report: Feedback Data Analysis
 
 Based on the analysis of the feedback data, the following detailed report is prepared:
-![Faculty-Wise Distribution of Feedback](Images/1.png)  
+  
 ## Faculty-Wise Distribution of Data
-
+![Faculty-Wise Distribution of Feedback](Images/1.png)
 - The dataset consists of feedback from students across different branches and for different resource persons.
 - There are 4 unique branches and 4 resource persons.
 - The faculty-wise distribution of data shows varied responses for each faculty member, indicating the breadth of feedback across the sessions.
 
 ## Summary of Responses
+  
+# Content Quality 
+![Faculty-Wise Distribution of Feedback](Images/1.png)
+- The average rating for content quality is 4.43 with a standard deviation of 0.65, indicating that most responses are positive with few variations.
 
-- **Content Quality**: The average rating for content quality is 4.43 with a standard deviation of 0.65, indicating that most responses are positive with few variations.
-- **Effectiveness**: The average effectiveness rating is 4.46, suggesting that the teaching methods and delivery are generally effective.
-- **Expertise**: With an average of 4.54, the resource persons are considered to have high expertise.
-- **Relevance**: The content's relevance to real-world scenarios is rated high, with an average of 4.54.
-- **Overall Organization**: The overall organization of the sessions, including time management and clarity of instructions, has an average rating of 4.48.
+# Effectiveness
+![Faculty-Wise Distribution of Feedback](Images/1.png)  
+- The average effectiveness rating is 4.46, suggesting that the teaching methods and delivery are generally effective.
 
-## Content Quality Against Branch
+# Expertise 
+![Faculty-Wise Distribution of Feedback](Images/1.png)  
+- With an average of 4.54, the resource persons are considered to have high expertise.
+  
+# Relevance
+![Faculty-Wise Distribution of Feedback](Images/1.png)
+- The content's relevance to real-world scenarios is rated high, with an average of 4.54.
 
+# Overall Organization
+![Faculty-Wise Distribution of Feedback](Images/1.png)  
+- The overall organization of the sessions, including time management and clarity of instructions, has an average rating of 4.48.
+# Content Quality Against Branch
 - The feedback data were further analyzed to understand the content quality across different branches.
 - The distribution indicates that while the content quality is generally rated high, there are a few outliers suggesting room for improvement, especially in the ECE and IMCA branches.
 
