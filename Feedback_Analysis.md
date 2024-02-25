@@ -45,6 +45,7 @@ Branch-wise analysis further demonstrates that perceptions of content quality ar
 ### Overall Organization
 <img src="Images/6.png" width="500" alt="Faculty-Wise Distribution of Feedback"> 
 - The overall organization of the sessions, including time management and clarity of instructions, has an average rating of 4.48.
+
 ### Content Quality Against Branch
 <img src="Images/8.png" width="500" alt="Faculty-Wise Distribution of Feedback">
 - The feedback data were further analyzed to understand the content quality across different branches.
